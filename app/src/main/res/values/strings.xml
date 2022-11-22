@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Foodrecipeapp</string>
+
+
+    <string name="noodles">
+        1.Cook the noodles in boiling water according to the instructions depending upon the kind of noodles you are using. Drain, cool under running water."\n"
+        2.Add a few drops of oil to the noodles to prevent them from sticking to each other."\n"
+        3.In a wok, heat some oil to almost smoking point.\n
+        4.Then add the sliced onions, peppers, carrots, spring onions and mushrooms and the ginger garlic chilli paste.\n
+        5.Mix the soy, schezwan, turmeric and the sugar in a small bowl and mix well.\n
+        6.Add this mix to the vegetables. Then add the noodles and toss well. Season to taste.\n
+        7.Finish with chopped coriander and toasted crushed peanuts and lemon juice.</string>
+</resources>
